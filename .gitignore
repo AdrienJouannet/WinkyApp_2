@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+/*/
+
+# White list:
+!.gitignore
+!/Assets/
+!/ProjectSettings/

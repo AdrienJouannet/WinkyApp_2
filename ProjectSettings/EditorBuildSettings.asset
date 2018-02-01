@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/00_WinkyApp_Menu.unity
+    guid: 9a0af2d629bc04b28907b751bfe6f09f
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/00_WinkyDefender_Menu.unity
+    guid: 3d70d2d0fe4fb4fd58cb3250dbe3537b
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Level_01.unity
+    guid: f8ba4d1d270fa42ea8a21bb3468c93bd
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Level_02.unity
+    guid: 92d4c05dc11cc094e9913b6d6f0ecdc1
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Level_03.unity
+    guid: db6d7b6923d4e4b45b4ebb6df55039dc
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Level_04.unity
+    guid: 6cfd4551f8645b84d913c87ef1f4bbe9
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Level_05.unity
+    guid: 99b7b3c52b2e5114f82b749bf554fe48
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Level_06.unity
+    guid: 1dc7311ea2d83ae4888584f83d93efe6
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Level_07.unity
+    guid: 7033015280372d94887676dcf61d2aac
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Level_08.unity
+    guid: 2573a16d550d5ae4a9d64152c49787e0
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Elite_01.unity
+    guid: 65426b3d0a172f44ea44b65630763483
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Vitrine_01.unity
+    guid: edb073f3d491fcc48a515e2bac94d56d
+  - enabled: 1
+    path: Assets/_Scenes/01_Remote.unity
+    guid: 67da2d3f184ddc941a4153cd02d903d9
+  - enabled: 1
+    path: Assets/_Scenes/WinkyWay/MainMenu.unity
+    guid: 75ae25c4f9a03074da0369b486349ed0
+  - enabled: 1
+    path: Assets/_Scenes/WinkyWay/Starfox.unity
+    guid: 483a25e1c9d4afe4b9fd6fbfeb53e866
+  - enabled: 1
+    path: Assets/_Scenes/WinkyWay/Endless.unity
+    guid: bc5b03cb2958c1048a3098cbe1ecc928
+  - enabled: 1
+    path: Assets/_Scenes/WinkyWay/Collection.unity
+    guid: e6145ad37662742b18723f60a1e81582
+  - enabled: 1
+    path: Assets/_Scenes/WinkyDefender/World_01/Demo_AR.unity
+    guid: 7b60970bf818a45de8fc509f799f54ca
+  - enabled: 0
+    path: Assets/_Scenes/WinkyDefender/World_01/Demo_AR 1.unity
+    guid: b65669ebd300d4738ab22e4ec4214ee5
